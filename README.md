@@ -26,15 +26,15 @@ Concepts: Stream Polymorphism (ostream), File I/O (fstream), String Manipulation
 
 The analyzer expects log files in the following format:
 
-[YYYY-MM-DD HH:MM:SS] LEVEL Message content...
+```[YYYY-MM-DD HH:MM:SS] LEVEL Message content...```
 
 
 Example:
-
+```
 [2025-12-04 14:00:00] INFO System started successfully
 [2025-12-04 14:05:23] ERROR Connection lost to database
 [2025-12-04 14:10:00] WARNING High memory usage detected
-
+```
 
 ## 💻 How to Run
 
