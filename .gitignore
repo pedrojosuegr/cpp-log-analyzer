@@ -1,0 +1,9 @@
+# Ignorar executables
+*.exe
+*.o
+*.out
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.vscode/
